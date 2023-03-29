@@ -1,9 +1,9 @@
 body{
     background-color: rgb(37, 163, 121);
+    color: rgb(70, 70, 70);
+    font-weight: bold;
 }
 
 h1{
-    color: rgb(70, 70, 70);
     text-decoration: underline;
-    font-weight: bold;
 }
